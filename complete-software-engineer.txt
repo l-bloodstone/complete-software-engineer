@@ -1,18 +1,18 @@
 Here is the complete list of topics to learn to become a software engineer:
 
-  **Basic computer skills**:
-      Introduction to computer hardware (CPU, memory, storage, input/output devices)
-      Introduction to computer software (operating systems, applications, programming languages)
-      Basic operating system concepts (Windows, Linux, macOS)
-      Familiarity with a text editor or IDE (Visual Studio Code, IntelliJ, Sublime Text)
-      Basic typing skills and keyboard shortcuts
+  **Basic computer skills**:
+      Introduction to computer hardware (CPU, memory, storage, input/output devices)
+      Introduction to computer software (operating systems, applications, programming languages)
+      Basic operating system concepts (Windows, Linux)
+      Familiarity with a text editor (NeoVim)
+      Basic typing skills and keyboard shortcuts
 
-  **Programming fundamentals**:
-      Introduction to programming (variables, data types, control structures, functions, loops)
-      Programming languages (start with one, such as Python, Java, or C++)
-      Basic data structures (arrays, lists, stacks, queues)
-      Basic algorithms (sorting, searching, recursion)
-      Object-oriented programming (OOP) concepts (classes, objects, inheritance, polymorphism)
+  **Programming fundamentals**:
+      Introduction to programming (variables, data types, control structures, functions, loops)
+      Programming languages (C, JavaScript, Go, Zig)
+      Basic data structures (arrays, lists, stacks, queues, linked lists)
+      Basic algorithms (sorting, searching, recursion)
+      Object-oriented programming (OOP) concepts (classes, objects, inheritance, polymorphism)
 
   **Data structures and algorithms**:
       Advanced data structures (trees, graphs, hash tables, heaps, priority queues)
